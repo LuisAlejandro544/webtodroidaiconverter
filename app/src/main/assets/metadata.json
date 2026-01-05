@@ -1,0 +1,5 @@
+{
+  "name": "WebToDroid AI Converter",
+  "description": "Convierte tus aplicaciones web (HTML/JS) en proyectos Android nativos utilizando la inteligencia de Gemini para generar manifiestos, permisos e iconos automáticamente.",
+  "requestFramePermissions": []
+}
